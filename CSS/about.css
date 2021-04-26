@@ -1,0 +1,24 @@
+.imagem-sobre{
+	height: 250px;
+	max-width: 100%;
+	margin-left: 128px;
+	margin-top: 30px;
+	border: 4px solid  gray;
+}
+
+.texto-sobre{
+	font-family: Tahoma;
+	color: white;
+	text-align: justify;
+	margin-left: 35px;
+	margin-right: 35px;
+}
+
+.titulo-sobre{
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-family: Tahoma;
+	margin-top: 25px;
+	margin-bottom: 15px;
+}
